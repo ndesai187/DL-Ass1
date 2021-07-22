@@ -1,4 +1,4 @@
-# Neural Netwrk without a library using Numpy
+# Neural Netwrk with Numpy ONLY (No other package)
 
 The aim of the study discussed in this report is to implement and train a multi-layer perceptron neural network on the provided training data set, and to test and evaluate the performance of this neural network on a hold-out testing data set. The implementation is using ***only standard numpy libraries and not any package.***
 
