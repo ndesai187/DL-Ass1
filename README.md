@@ -19,7 +19,7 @@ Techniques Used:
 
 ### Results Heatmap:
 <p align="center">
-  <img src="results-heatmap.png" width="60%" alt="heatmap">
+  <img src="results-heatmap.jpg" width="60%">
   <br/>
   <i>Predicted Labels Heatmap</i>
 </p>
